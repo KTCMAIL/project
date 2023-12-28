@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844312883246",
+    "project_id": "rescue-notice-app",
+    "storage_bucket": "rescue-notice-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844312883246:android:a57c33a0d330e11f466fbf",
+        "android_client_info": {
+          "package_name": "com.example.thecover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844312883246-2jhl94cpcj6b3t6ag6o3qu0paeaofhec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19hlQlWMurkbWCEZF4uV1nvb4miUDuZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844312883246-2jhl94cpcj6b3t6ag6o3qu0paeaofhec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
